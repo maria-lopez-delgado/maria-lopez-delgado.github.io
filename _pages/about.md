@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ¡Hola!
----
 
 I’m Maria!
 
