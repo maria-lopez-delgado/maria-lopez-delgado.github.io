@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# ¡Hola!
+¡Hola!
+---
 
-### I’m Maria!
+I’m Maria!
 
 I’m passionate about **collaborating** with a **diverse** **team** to design **intuitive** solutions for **complex** systems.
 
