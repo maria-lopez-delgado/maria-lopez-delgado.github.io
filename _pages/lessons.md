@@ -53,10 +53,20 @@ author_profile: true
 ###### Redesign UI
 
 ### [5] Improving usability, but not aligning with users’ mental model
-* When redesigning DeepLynx, the UX team identified some complex interactions and proposed a simplified redesign. During user testing, using the think-aloud method, it was clear that the proposed redesign did not align with their mental model and expected interaction. Sadly, it was at the end of the internship, and we couldn’t address another design solution. But it was a great opportunity to reinforce the need for user testing before implementation, and especially when redesigning a complex interaction. 
+* When redesigning DeepLynx, the UX team **identified** some **complex interactions** and **proposed** a **simplified redesign**. 
+* During **user testing**, using the **think-aloud method**, it was clear that the proposed redesign did **not align with their mental model** and expected interaction. 
+    * For example, they would click on gray out sections added for context information to add a new edge and click on a gray out save button instead of clicking on the blue save button inside the box they were editing in. 
+* Sadly, it was at the end of the internship, and we could not address another design solution. But it was a **great opportunity** to reinforce the **need for user testing before implementation**, and especially when redesigning a complex interaction. 
 
-![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
-###### ADD TEXT
+![New edge 1](/images/Lesson-11.png "New edge 1")
+###### Creating a new edge, users got confused and clicked on the gray out information up top instead of the blue plus buttons.
+
+![New edge 2](/images/Lesson-12.png "New edge 2")
+###### Users would want to click on a gray out save button instead of clicking on the blue save button inside the box they were editing in
+
+![New edge 3](/images/Lesson-13.png "New edge 3")
+###### Users were confused on what save button to click on. 
+
 
 ### [6] Translate requirements  
 *Understand requirements as shared to developers by stakeholders*
