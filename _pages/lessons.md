@@ -10,9 +10,8 @@ author_profile: true
   * For example, when **designing** the **advanced search section**, I leverage my **own mental models** of interacting with a library catalog to align it with Nexus. In particular, focusing on **interaction users are familiar** with using, like being able to determine filters, add text they want to look for, and use Boolean operators.
 * So as designers, we need to make sure we truly **understand** what we are task is, look at the competitors and potential users' familiarity. 
 
-![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
-
-![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
+![The San Juan Mountains are beautiful](/images/Lesson-1.png "San Juan Mountains")
+###### Mockup design for advance search with all filters added
 
 [2] Adapting to user goals for interaction
 * It is key to understand how users will want to interact with the tool. There might be circumstances for limited or no interaction with potential or current users. In speaking with the project owner, it might be an option to gauge an understanding of how the tool might be useful for users to interact with. 
