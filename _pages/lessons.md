@@ -5,13 +5,11 @@ permalink: /lessons/
 author_profile: true
 ---
 1. Mental model alignment as a designer
-    * * As a designer, I was lost in understanding and aligning my mental model when tasked to design Nexus, a data catalog to support the digital twin life cycle. I researched examples and expected interactions. And found it is similar to a library catalog, something I’m very familiar with. Because I was able to align my mental model to the design requirements, I was able to design better, and it aligned with the expected interaction. 
-    * For example, when designing the advanced search section, I leverage my own mental models of interacting with a library catalog to align it with Nexus. In particular, focusing on interaction users are familiar with using, like being able to determine filters, add text they want to look for, and use Boolean operators.
-* So as designers, we need to make sure we truly understand what we are task is, look at the competitors and potential users' familiarity. 
+    * As a designer, I was lost in understanding and aligning my mental model when tasked to design Nexus, a data catalog to support the digital twin life cycle. I researched examples and expected interactions. And found it is similar to a library catalog, something I’m very familiar with. Because I was able to align my mental model to the design requirements, I was able to design better, and it aligned with the expected interaction. 
+     * For example, when designing the advanced search section, I leverage my own mental models of interacting with a library catalog to align it with Nexus. In particular, focusing on interaction users are familiar with using, like being able to determine filters, add text they want to look for, and use Boolean operators.
+    * So as designers, we need to make sure we truly understand what we are task is, look at the competitors and potential users' familiarity. 
 
 ![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
-2. test
-
 
 2. Adapting to user goals for interaction
 * It is key to understand how users will want to interact with the tool. There might be circumstances for limited or no interaction with potential or current users. In speaking with the project owner, it might be an option to gauge an understanding of how the tool might be useful for users to interact with. 
