@@ -18,3 +18,5 @@ I bring my **background in education** to all design projects. By making sure **
 With a keen eye for **observing** design decisions, I closely **analyze** that work and what could be **improved** to increase **usability** and user retention.
 
 In this page, you can explore my **top** 6 **lessons learned** from different UX projects and a quick **showcase** of some of the **UX projects** I have collaborated on.  
+
+***I'm currently looking for internships Spring and Summer 2026 or full time opportunities as junior UX designer.***
