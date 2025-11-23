@@ -1,14 +1,33 @@
+<script src="plugin/markdown/markdown.js"></script>
+<script>
+  Reveal.initialize({
+    plugins: [RevealMarkdown],
+  });
+</script>
 ---
 layout: archive
 title: "Top 6 Lessons Learned"
 permalink: /lessons/
 author_profile: true
 ---
+
+<section data-markdown>
+  <textarea data-template>
+    ## Slide 1
+    A paragraph with some text and a [link](https://hakim.se).
+    ---
+    ## Slide 2
+    ---
+    ## Slide 3
+  </textarea>
+</section>
+
 [1] Mental model alignment as a designer
 * As a designer, I was lost in understanding and aligning my mental model when tasked to design Nexus, a data catalog to support the digital twin life cycle. I researched examples and expected interactions. And found it is similar to a library catalog, something I’m very familiar with. Because I was able to align my mental model to the design requirements, I was able to design better, and it aligned with the expected interaction. 
     * For example, when designing the advanced search section, I leverage my own mental models of interacting with a library catalog to align it with Nexus. In particular, focusing on interaction users are familiar with using, like being able to determine filters, add text they want to look for, and use Boolean operators.
 * So as designers, we need to make sure we truly understand what we are task is, look at the competitors and potential users' familiarity. 
 
+![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
 ![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
 
 [2] Adapting to user goals for interaction
@@ -35,7 +54,7 @@ author_profile: true
 ![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
 
 [6] Translate requirements  
-*Understand requirements as shared to developers by stakeholders*  
+*Understand requirements as shared to developers by stakeholders*
 * While working in Spectra, a digital twin model viewer, an engineer handed his version of the design based on his conversations with the client.
     * It became a wonderful opportunity to understand the engineer’s perspective on requirements and design. 
     * In this case,  it was concerning the addition of a schedule to show the progress in construction, concurrent with the visualization in a Unity scene. I was handed a sketch and told to make it look pretty. And of course, I could make it look pretty, but I could make it more intuitive and informative for the user.  
