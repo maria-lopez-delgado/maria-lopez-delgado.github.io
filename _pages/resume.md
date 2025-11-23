@@ -143,12 +143,12 @@ interactions.
 
 ### Service and leadership
 
-***Service to the department and university***
+##### Service to the department and university
 * Financial Officer Latinx and Hispanic Graduate Student Association — UMBC — Baltimore, Maryland — Fall 2024, Spring 2025, Fall 2025
 * Graduate Student Representative for Promotion and Tenure Review Department of Information Systems —
 UMBC — Baltimore, Maryland — Fall 2024
 * Committee Member FIKA Committee — Interactive Systems Research Center — UMBC — Baltimore, Maryland — Fall 2023, Spring 2024
 
-***Service to the profession***
+##### Service to the profession
 * Scorekeeper Maryland First LEGO League Challenge State Tournament —Baltimore, Maryland — February 2025 
 * Student Volunteering — ACM CHI Conference on Human Factors in Computing Systems — Honolulu, Hawaii — May 2024 — *$475*
