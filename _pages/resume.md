@@ -3,8 +3,6 @@ layout: archive
 title: "Resume"
 permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -27,7 +25,7 @@ Work experience
     * Mentored and supported a team of undergraduate teaching assistants in student-centered and inclusive practices.
     * Collaborated with faculty to improve assessment practices, including positive grading and transparency. 
 
-- Data Twin Framework Department, Idaho National Laboratory — Intern - GEM Fellow — *Summer 2025*
+* Data Twin Framework Department, Idaho National Laboratory — Intern - GEM Fellow — *Summer 2025*
   * Organized and co-facilitated a collaborative workshop with the project team to define and align on user
 roles within the application.
   * Designed mockups for three web applications using Figma.
@@ -138,92 +136,12 @@ Skills
   * Adobe Photoshop
 
 
-Publications
-======
-***Peer-reviewed Conference Publications*** 
-* [0] **Lopez-Delgado, M.**, Lemus, K. Ordoñez, P. (2025, July). Fostering Equity and Access in Makerspace
-through Education for Empowerment Marginalized Communities: An Experience Report. Proceedings of
-the 2025 on RESPECT Annual Conference, Newark, NJ. https://doi.org/10.1145/3704637.3734764
-* [1] Ordonez Franco, P., Carroll-Miranda, J., **López Delgado, M.**, Gerena Lopez, E., & Rodriguez Gomez, G.
-(2018, February). Incorporating computational thinking in the classrooms of Puerto Rico [Research Article].
-Proceedings of the 49th ACM Technical Symposium on Computer Science Education, Baltimore, MD.
-https://doi.org/10.1145/3159450.3159544
-
-***Peer-reviewed Conference Posters and Demos***
-* [2] **López-Delgado, M.** (2024, March). Circuit Tiles: Mixing Culture, Crafts, and Circuits to Inspire Di-
-versity in Computing [Poster]. Proceedings of the 55th ACM Technical Symposium on Computer Science
-Education V. 2, Portland, OR. https://doi.org/10.1145/3626253.3635558
-
-***Conference Presentations***
-* [3] Ordóñez, P. & **López-Delgado, M.** (2024, July). Mothers Can Be Computing Leaders, Too: Why
-Mothers Should Lead the Culturally Responsive Computing Education Movement [Work in Progress]. LAC-
-CEI 2024, San Jose, Costa Rica.
-
-***Conference Posters and Demos***
-* [4] Lemus, K., Lopez, I. & **López-Delgado, M.**, Ordóñez, P. (2024, July). Empowering Underrepresented
-Undergraduates in Computing By Bridging the Digital Divide in Marginalized Communities [Poster]. LAC-
-CEI 2024, San Jose, Costa Rica.
-
-***Posters and Presentations***
-* [5] **López-Delgado, M.**, Kuber, Ravi. (2025, April). State of Computational Thinking and Creative Tech-
-nologies in Early Childhood Education [Poster Presentation]. COEIT Research Day Posters 2024, University
-of Maryland, Baltimore County
-* [6] **López-Delgado, M.** (2024, December). Circuit Tiles: Mixing Culture, Crafts, and Circuits to Inspire
-Diversity in Computing [PhD Lightning Rounds]. The World Engineering Education Forum 2024, Sydney,
-Australia.
-* [7] Lemus, K., Lopez, I., **López-Delgado, M.**, and Ordóñez, P. (2024, April). Empowering Underrepre-
-sented Undergraduates in Computing By Bridging the Digital Divide in Marginalized Communities. COEIT
-Research Day Posters 2024, University of Maryland, Baltimore County.
-* [8] Pineda, M. M., Asave, R. R., **López-Delgado, M.**, Kuber, R., and Hamidi, F.. (2024, April). Unders-
-tanding How Community Programs Empower Blind and Low Vision Youth. COEIT Research Day Posters
-2024, University of Maryland, Baltimore County. (Honorable Mention – Student Poster Awards)
-* [9] **López-Delgado, M.**, Ordonez, Patricia. (2024, April). Fostering Equity and Access in Makerspaces
-through Education for Empowerment and Social Mobility of Marginalized Communities [Poster Presentation].
-COEIT Research Day Posters 2024, University of Maryland, Baltimore County.
-* [10] **López-Delgado, M.** (2024, April). Circuit Tiles: Mixing Culture, Crafts, and Circuits to Inspire
-Diversity in Computing [Poster]. Computing Research Association - Widening Participation in Computing
-Research (CRA - WP) Grad Cohort for Women, Minneapolis, Minnesota.
-* [11] **López-Delgado, M.**, Ordonez, Patricia. (2024, March). Fostering Equity and Access in Makerspaces
-through Education for Empowerment and Social Mobility of Marginalized Communities [Poster Presentation].
-2024 COEIT Graduate Student Open House, University of Maryland, Baltimore County.
-* [12] **López-Delgado, M.**, Ordonez, Patricia. (2024, February). Fostering Equity and Access in Ma-
-kerspaces through Education for Empowerment and Social Mobility of Marginalized Communities [Poster
-Presentation]. 20th Annual USM NSF PROMISE AGEP Research Symposium, University of Maryland,
-College Park. (***1st place in the Research Poster Category***)
-* [13] **López-Delgado, M.**, Patterson, N., Ordóñez, P. (2023, March). Creative Computing Education to
-Bridge the Technology Gap. [Poster Presentation]. 2023 COEIT Graduate Student Open House, University
-of Maryland, Baltimore County.
-* [14] **López-Delgado, M.**, Patterson, N., Ordóñez, P. (2022, October). Creative Computing Education
-to Bridge the Technology Gap. [Poster Presentation]. 2022 IS Research Spotlight Day, University of Mary-
-land, Baltimore County.
-* [15] **López-Delgado, M.**, Patterson, N., Ordóñez, P. (2022, October). Creative Computing Education
-to Bridge the Technology Gap. [Poster Presentation]. The Latinx and Hispanic Faculty Association Event,
-University of Maryland, Baltimore County.
-
-**Doctoral Consortium**
-* [16] **López-Delgado**, M. (2025, July). Computational Thinking and Creative Technologies in Early Childhood
-Education in Puerto Rico. Doctoral Consortium at ACM SIGCSE Conference on Research on Equity and
-Sustained Participation in Engineering, Computing, and Technology (RESPECT’25), Newark, NJ.
-
-Talks
-======
-* **All about Graduate School** — COMP 101 — UMBC — December 2025
-* **Empowering Marginalized Communities through Creative Technologies** — Kotturi Lab — UMBC — October 2025
-  
 Awards
 ======
 * **GEM MS Fellowship** — Idaho National Lab (INL) — Idaho Falls, Idaho — 2024-2026 — *$16,000*
-* **PROMISE Engineering Institute Fellow** — UMBC & UC Davis — Spring 2024, Fall 2024, Spring 2025
-* **The World Engineering Education Forum (WEEF)** — UMBC’s College of Engineering and Information
-Technology’s Dean’s Office —Sydney, Australia — December 2024 —*$4,000*
-* **PROMISE Engineering Institute Mentor Academy**  — PROMISE Engineering Institute —Davis, California — April 2025 — *$3,000*
-* **SACNAS National Diversity in STEM Conference (NDiSTEM)**  — UMBC Graduate School — Phoenix, Arizona —November 2024 — *$2,000*
-* **Tapia Celebration ACM** — Tapia Celebration —San Diego, California — September 2024 — *$600*
-* **STARS Celebration** — STARS Computing Corps — San Diego, California — September 2024 — *$1,200*
+* **The World Engineering Education Forum (WEEF)** — UMBC’s College of Engineering and Information Technology’s Dean’s Office —Sydney, Australia — December 2024 —*$4,000*
 * **CRA-WP Grad Cohort for Women** — Computing Research Association — Minneapolis, Minnesota — April 2024
-* **STARS Celebration** — STARS Computing Corps — Dallas, Texas — September 2023 —*$700*
-* **Society of Hispanic Professional Engineers (SHPE) National Convention** — PROMISE Engineering Institute — Salt Lake City, Utah — November 2023 — *$1,700* 
-  
+
 Service and leadership
 ======
 ***Service to the department and university***
