@@ -1,26 +1,9 @@
-<script src="plugin/markdown/markdown.js"></script>
-<script>
-  Reveal.initialize({
-    plugins: [RevealMarkdown],
-  });
-</script>
 ---
 layout: archive
 title: "Top 6 Lessons Learned"
 permalink: /lessons/
 author_profile: true
 ---
-
-<section data-markdown>
-  <textarea data-template>
-    ## Slide 1
-    A paragraph with some text and a [link](https://hakim.se).
-    ---
-    ## Slide 2
-    ---
-    ## Slide 3
-  </textarea>
-</section>
 
 [1] Mental model alignment as a designer
 * As a designer, I was lost in understanding and aligning my mental model when tasked to design Nexus, a data catalog to support the digital twin life cycle. I researched examples and expected interactions. And found it is similar to a library catalog, something I’m very familiar with. Because I was able to align my mental model to the design requirements, I was able to design better, and it aligned with the expected interaction. 

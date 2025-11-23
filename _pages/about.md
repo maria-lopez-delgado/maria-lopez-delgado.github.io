@@ -11,7 +11,7 @@ redirect_from:
 
 I’m Maria!
 
-I’m passionate about **collaborating** with a **diverse** **team** to design **intuitive** solutions for **complex** systems.
+I’m passionate about ==**collaborating**== with a **diverse** **team** to design **intuitive** solutions for **complex** systems.
 
 I bring my **background in education** to all design projects. By making sure **users** with **diverse** **backgrounds** and **mental models** can easily **understand**, **learn**, and **use** the systems. And more importantly, **design** solutions that are **user-centric** and **accessible** for all.
 
