@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-¡Hola!
+***¡Hola!***
 
 I’m Maria!
 
