@@ -71,15 +71,19 @@ author_profile: true
 ### [6] Translate requirements  
 *Understand requirements as shared to developers by stakeholders*
 * While working in Spectra, a digital twin model viewer, an engineer handed his version of the design based on his conversations with the client.
-    * It became a wonderful opportunity to understand the engineer’s perspective on requirements and design. 
-    * In this case,  it was concerning the addition of a schedule to show the progress in construction, concurrent with the visualization in a Unity scene. I was handed a sketch and told to make it look pretty. And of course, I could make it look pretty, but I could make it more intuitive and informative for the user.  
+    * It became a wonderful opportunity to **understand the engineer’s perspective on requirements and design**. 
+    * In this case,  it was concerning the addition of a schedule to show the progress in construction, concurrent with the visualization in a Unity scene. 
+    * **I was handed a sketch and told to make it look pretty**. And of course, I could make it look pretty, **but I could make it more intuitive and informative for the user**.  
         * In so I suggested 
             * Prioritize and organize content for users to quickly scan information needed to view the progress of the project
-            * Multiple indications of the status of construction to correspond not only to highlights in the Unity scene when selecting an element, but solo next to the name to quickly see progress. 
+            * **Multiple indications of the status** of construction to correspond not only to highlights in the Unity scene when selecting an element, but solo next to the name to quickly see progress. 
             * Use of color and symbols to quickly gauge if the part is online or offline
             * An individual progress bar for each individual element to gauge the progress of construction.  
 * While not being able to talk with potential users or clients, I was able to gain some insight from the engineer and optimize the design to be more intuitive and useful for users. 
 
 
-![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
-###### ADD TEXT
+![The San Juan Mountains are beautiful](/images/Lesson-14.png "San Juan Mountains")
+###### Users will be able to know the status of the construction without having to click on the part.
+
+![The San Juan Mountains are beautiful](/images/Lesson-15.png "San Juan Mountains")
+###### Viewing the status both next to the part name and in the Unity scene. 
