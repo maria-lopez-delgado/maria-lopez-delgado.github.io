@@ -23,7 +23,7 @@ repository               : "maria-lopez-delgado/maria-lopez-delgado.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "María López-Delgado"
   pronouns         : # example: "she/her"  
   bio              : "A UX designer and PhD student"
