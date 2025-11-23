@@ -34,8 +34,8 @@ author_profile: true
 
 ![The San Juan Mountains are beautiful](/images/500x300.png "San Juan Mountains")
 
-[6] Translate requirements
-*Understand requirements as shared to developers by stakeholders*
+[6] Translate requirements  
+*Understand requirements as shared to developers by stakeholders*  
 * While working in Spectra, a digital twin model viewer, an engineer handed his version of the design based on his conversations with the client.
     * It became a wonderful opportunity to understand the engineer’s perspective on requirements and design. 
     * In this case,  it was concerning the addition of a schedule to show the progress in construction, concurrent with the visualization in a Unity scene. I was handed a sketch and told to make it look pretty. And of course, I could make it look pretty, but I could make it more intuitive and informative for the user.  
