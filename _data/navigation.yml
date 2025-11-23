@@ -23,7 +23,7 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
 
-  - title: "Top 6 lessons learned"
+  - title: "Lessons Learned"
     url: /lessons/
 
   - title: "Resume"
