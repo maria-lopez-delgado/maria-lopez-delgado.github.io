@@ -24,7 +24,7 @@ main:
     #url: /year-archive/
 
   - title: "Top 6 lessons learned"
-    url: /lessons-learned/
+    url: /lessons/
 
   - title: "Resume"
     url: /resume/

@@ -1,7 +1,7 @@
 ---
 title: "1. "
 excerpt: "Mental model alignment as a designer<br/><img src='/images/500x300.png'>"
-collection: lessons-learned
+collection: lessons
 ---
 * As a designer, I was lost in understanding and aligning my mental model when tasked to design Nexus, a data catalog to support the digital twin life cycle. I researched examples and expected interactions. And found it is similar to a library catalog, something I’m very familiar with. Because I was able to align my mental model to the design requirements, I was able to design better, and it aligned with the expected interaction. 
     * For example, when designing the advanced search section, I leverage my own mental models of interacting with a library catalog to align it with Nexus. In particular, focusing on interaction users are familiar with using, like being able to determine filters, add text they want to look for, and use Boolean operators.
