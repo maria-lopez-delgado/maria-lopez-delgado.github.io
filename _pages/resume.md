@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
+### Education
+
 * *PhD in Human-Centered Computing*, University of Maryland, Baltimore County, expected May 2028
 * Master of Science *in Human-Centered Computing*, University of Maryland, Baltimore County, May 2025
 * *Creative Technologies Certificate*, Teachers College - Columbia University, February 2022
@@ -16,8 +16,8 @@ Education
 * *Bachelor of Arts in Secondary Math Education* (Completed 22 credits in Computer Science courses.), University of Puerto Rico - Rio Piedras Campus, August 2017
 
 
-Work experience
-======
+### Work experience
+
 * Engineering and Computing Education Program, University of Maryland, Baltimore County — Graduate Teaching Assistant — *Fall 2024, Spring 2025, Fall 2025*
   * Contributed to an introductory computing course teaching team. Some of the tasks I participated in were:
     * Led lessons in coordination with faculty objectives and course curriculum.
@@ -35,7 +35,6 @@ interactions.
   * Collaborated with front-end developers to ensure accurate translation of designs into functional code.
   * Contributed to the development of React web apps.
   * Used DaisyUI component library to recreate mockup designs.
-
 
 * Digital Engineering Department, Idaho National Laboratory — Intern - GEM Fellow —  *Summer 2024*
   * Contributed to Cirrus, a cloud feasibility tool for grid professionals by:
@@ -71,8 +70,8 @@ interactions.
   * Organize the lab and create promotional flyers.
   * Familiarize and gain basic knowledge of different digital fabrication technologies in the lab.
 
-Course Work Experience
-======
+### Course Work Experience
+
 * Human-Centered Design — University of Maryland, Baltimore County — *Spring 2023*
   * The semester-long project of redesigning a website allowed for the exploration and application of: 
     * Identified problem.
@@ -109,8 +108,8 @@ Course Work Experience
     * Used Adobe XD to create an interactive prototype of the MVP. 
 
 
-Skills
-======
+### Skills
+
 * Development
   * HTML
   * JavaScript
@@ -136,14 +135,14 @@ Skills
   * Adobe Photoshop
 
 
-Awards
-======
+### Awards
+
 * **GEM MS Fellowship** — Idaho National Lab (INL) — Idaho Falls, Idaho — 2024-2026 — *$16,000*
 * **The World Engineering Education Forum (WEEF)** — UMBC’s College of Engineering and Information Technology’s Dean’s Office —Sydney, Australia — December 2024 —*$4,000*
 * **CRA-WP Grad Cohort for Women** — Computing Research Association — Minneapolis, Minnesota — April 2024
 
-Service and leadership
-======
+### Service and leadership
+
 ***Service to the department and university***
 * Financial Officer Latinx and Hispanic Graduate Student Association — UMBC — Baltimore, Maryland — Fall 2024, Spring 2025, Fall 2025
 * Graduate Student Representative for Promotion and Tenure Review Department of Information Systems —
