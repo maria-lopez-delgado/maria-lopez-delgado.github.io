@@ -4,10 +4,14 @@ title: "Top 6 Lessons Learned"
 permalink: /lessons/
 author_profile: true
 ---
-
-Please explore the different lessons I learned while working in some wonderful projects.
+This page summarizes some of the lessons I learned while working as UX designer in some wonderful projects. Please explore the different approaches and learning moments that I feel were more significant for me as a UX designer.
 
 [[1] Mental model alignment as a designer](#lesson-1)
+[[2] Adapting to user goals for interaction](#lesson-2)
+[[3] Understanding current users](#lesson-3)
+[[4] Identifying potential user problems](#lesson-4)
+[[5] Improving usability, but not aligning with users’ mental model](#lesson-5)
+[[6] Translate requirements](#lesson-6)
 
 ---
 
@@ -19,6 +23,8 @@ Please explore the different lessons I learned while working in some wonderful p
 ![Mockup advance search Nexus](/images/Lesson-2.png "Advance search")
 ###### Mockup design for advance search with all filters added
 
+---
+
 ### [2] Adapting to user goals for interaction {#lesson-2}
 * It is key to **understand how users will want to interact** with the tool. There might be circumstances for limited or no interaction with potential or current users. In speaking with the project owner, it might be an option to gauge an understanding of how the tool might be useful for users to interact with. 
   * For example, when designing for Nexus, a data catalog to support the digital twin life cycle, in particular, the data catalog landing page, the **initial understanding** was that users would only want to search within one project. After conversing with the project owner, the UX team realized that there might be **other use cases** where users would like to do data discovery across several projects. Adding the ability to easily select in what projects users want to search was an excellent example of **anticipating and adapting to user needs**.
@@ -29,6 +35,8 @@ Please explore the different lessons I learned while working in some wonderful p
 
 ![Mockup data discovery all projects](/images/Lesson-4.png "data discovery all projects")
 ###### Mockup design for data discovery across all projects user is part of
+
+---
 
 ### [3] Understanding current users {#lesson-3}
 * When starting a **new project**, it is fundamental to get to **know** and understand **current users**. 
@@ -45,6 +53,8 @@ Please explore the different lessons I learned while working in some wonderful p
 ![Persona 3](/images/Lesson-7.png "Persona 3")
 ###### Sherlock, is a research  that uses DeepLynx monthly for it's Graph and Model viewer to gather data for this projects.
 
+---
+
 ### [4] Identifying potential user problems {#lesson-4}
 * In redesigning DeepLynx, the UX team was **unable** to **meet** 1-1 with **current users** to gather their **issues** with the user interface. 
 * To **identify** the **problems** we needed to address in the redesign, we leveraged **Nielsen’s Heuristic Evaluation**. 
@@ -57,6 +67,8 @@ Please explore the different lessons I learned while working in some wonderful p
 ###### Summary of Heuristic Evaluation and changes
 ![Redesign UI](/images/Lesson-10.png "Redesign UI")
 ###### Redesign UI
+
+---
 
 ### [5] Improving usability, but not aligning with users’ mental model {#lesson-5}
 * When redesigning DeepLynx, the UX team **identified** some **complex interactions** and **proposed** a **simplified redesign**. 
@@ -73,6 +85,7 @@ Please explore the different lessons I learned while working in some wonderful p
 ![New edge 3](/images/Lesson-13.png "New edge 3")
 ###### Users were confused on what save button to click on. 
 
+---
 
 ### [6] Translate requirements {#lesson-6}  
 *Understand requirements as shared to developers by stakeholders*
@@ -86,7 +99,6 @@ Please explore the different lessons I learned while working in some wonderful p
             * Use of color and symbols to quickly gauge if the part is online or offline
             * An individual progress bar for each individual element to gauge the progress of construction.  
 * While not being able to talk with potential users or clients, I was able to gain some insight from the engineer and optimize the design to be more intuitive and useful for users. 
-
 
 ![The San Juan Mountains are beautiful](/images/Lesson-14.png "San Juan Mountains")
 ###### Users will be able to know the status of the construction without having to click on the part.
