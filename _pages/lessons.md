@@ -7,10 +7,15 @@ author_profile: true
 This page summarizes some of the lessons I learned while working as UX designer in some wonderful projects. Please explore the different approaches and learning moments that I feel were more significant for me as a UX designer.
 
 [[1] Mental model alignment as a designer](#lesson-1)
+
 [[2] Adapting to user goals for interaction](#lesson-2)
+
 [[3] Understanding current users](#lesson-3)
+
 [[4] Identifying potential user problems](#lesson-4)
+
 [[5] Improving usability, but not aligning with users’ mental model](#lesson-5)
+
 [[6] Translate requirements](#lesson-6)
 
 ---
